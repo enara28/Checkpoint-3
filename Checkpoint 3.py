@@ -16,7 +16,7 @@ elemento_lista = lista[0]
 numero_dos = numero + 10
 
 #Actividad 5
-ultimo_lista = lista[3]
+ultimo_lista = lista[-1]
 
 #Actividad 6
 names = 'harry,alex,susie,jared,gail,conner'
